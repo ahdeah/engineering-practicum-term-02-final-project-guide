@@ -30,6 +30,7 @@ We are going to break our approach into 2 phases:
 As always, read through the documentation thoroughly, and apply the concepts in the guide to your own project step by step.
 
 ## 1️⃣ Static Phase
+"It’s often easier to build the static version first and add interactivity later. Building a static version requires a lot of typing and no thinking, but adding interactivity requires a lot of thinking and not a lot of typing." - React Documentation
 
 ### 🔹 Step 1: Break the UI into a component hierarchy
 
