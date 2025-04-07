@@ -73,17 +73,17 @@ Learn how to connect your React frontend to your Express backend with the [Front
 ```
 Follow the [Learning React guide](05-learning-react-through-documentation.md) to build a solid foundation in React concepts.
 
-### 🔜 Coming Soon
+### 🧩 Step 7: Thinking in React
 ```
 📄 06-thinking-in-react.md
-📄 07-react-bootstrap-components.md
-📄 08-frontend-with-placeholder-data.md
-📄 09-server-side-business-logic.md
-📄 10-api-requests-real-data.md
 ```
-- Applying "thinking in React" to our UI wireframe
-- Using React Bootstrap pre-made components
-- Implementing a frontend with placeholder data
+Apply the [Thinking in React guide](06-thinking-in-react.md) to break down your UI into components and build your frontend with placeholder data.
+
+### 🔜 Coming Soon
+```
+📄 07-server-side-business-logic.md
+📄 08-api-requests-real-data.md
+```
 - Server side business logic
 - Populating our frontend with real data through API requests
 
