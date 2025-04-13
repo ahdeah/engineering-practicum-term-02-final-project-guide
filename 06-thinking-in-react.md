@@ -57,7 +57,7 @@ https://github.com/ahdeah/detroit-msa-aq-analyzer-epfp2/blob/main/frontend/src/A
 
 #### 📊 Charting
 
-Same concept applies to visualizing data. To code it from scratch would take forever so let's use a library. I recommend using one of the two
+Same concept applies to visualizing data. To code it from scratch would take forever so let's use a library. I recommend using one of the two!
 #### Chart.js
 Chart.js is the most beginner friendly and will get the job done : )
 https://react-chartjs-2.js.org/
