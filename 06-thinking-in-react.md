@@ -62,6 +62,8 @@ Same concept applies to visualizing data. To code it from scratch would take for
 Chart.js is the most beginner friendly and will get the job done : )
 https://react-chartjs-2.js.org/
 
+I've created a guide you can reference here: https://github.com/ahdeah/engineering-practicum-term-02-final-project-guide/blob/main/react-chartjs-2-guide.md
+
 ##### D3.js
 D3.js is more complex than Chart.js but it lets you do more complex things
 > 🔗 Check out this overview video: [D3.js in 100 Seconds](https://www.youtube.com/watch?v=bp2GF8XcJdY)
