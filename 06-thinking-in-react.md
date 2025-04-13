@@ -55,10 +55,15 @@ https://github.com/ahdeah/engineering-practicum-term-02-final-project-guide/blob
 You can also view my example project for reference:
 https://github.com/ahdeah/detroit-msa-aq-analyzer-epfp2/blob/main/frontend/src/App.js
 
-#### 📊 D3.js
+#### 📊 Charting
 
-Same concept applies to visualizing data. To code it from scratch would take forever so let's use a library. I recommend using D3.js. 
+Same concept applies to visualizing data. To code it from scratch would take forever so let's use a library. I recommend using one of the two
+#### Chart.js
+Chart.js is the most beginner friendly and will get the job done : )
+https://react-chartjs-2.js.org/
 
+##### D3.js
+D3.js is more complex than Chart.js but it lets you do more complex things
 > 🔗 Check out this overview video: [D3.js in 100 Seconds](https://www.youtube.com/watch?v=bp2GF8XcJdY)
 
 Equipped with those tools, go ahead and read step 2! 😊
