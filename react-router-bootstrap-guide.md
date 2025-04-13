@@ -2,7 +2,7 @@
 
 ## 📌 Introduction
 
-When building modern web applications with React, you'll often use multiple libraries that work together to create a complete user experience. This guide explains how React, React Router, and React Bootstrap work together in your Detroit Air Quality Analyzer project.
+When building modern web applications with React, you'll often use multiple libraries that work together to create a complete user experience. This guide explains how React, React Router, and React Bootstrap work together.
 
 ## 📌 What is a Single Page Application (SPA)?
 
