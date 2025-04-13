@@ -48,6 +48,13 @@ Making HTML look and feel good can be SUPER time consuming. So to save time and 
 
 > 🔗 Take a look at this video for an overview of how to do that: [React Bootstrap Tutorial](https://www.youtube.com/watch?v=8pKjULHzs0s)
 
+### Going to different "pages"
+You may be asking yourself, "wait how do I get my app to navigate to different pages when I click on links!!!???". Fear not, here is a guide that explains how to use React, React Router, and React Bootstrap to do that!
+https://github.com/ahdeah/engineering-practicum-term-02-final-project-guide/blob/main/react-router-bootstrap-guide.md
+
+You can also view my example project for reference:
+https://github.com/ahdeah/detroit-msa-aq-analyzer-epfp2/blob/main/frontend/src/App.js
+
 #### 📊 D3.js
 
 Same concept applies to visualizing data. To code it from scratch would take forever so let's use a library. I recommend using D3.js. 
