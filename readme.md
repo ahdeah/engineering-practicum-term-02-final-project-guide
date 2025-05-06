@@ -87,6 +87,7 @@ Apply the [Thinking in React guide](06-thinking-in-react.md) to break down your 
 📄 07d-frontend-data-fetching.md
 ```
 Follow these guides to implement the complete data journey in your application:
+Note: Use [Data Journey Checklist](data-journey-checklist.md) to keep yourself on track : )
 
 1. Start with the [Data Journey Overview](07a-data-journey-overview.md) to understand how data flows from your database to the user interface
 
