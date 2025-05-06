@@ -79,13 +79,22 @@ Follow the [Learning React guide](05-learning-react-through-documentation.md) to
 ```
 Apply the [Thinking in React guide](06-thinking-in-react.md) to break down your UI into components and build your frontend with placeholder data.
 
-### 🔜 Coming Soon
+### 🔄 Step 8: Implementing the Complete Data Journey
 ```
-📄 07-server-side-business-logic.md
-📄 08-api-requests-real-data.md
+📄 07a-data-journey-overview.md
+📄 07b-database-layer.md
+📄 07c-server-processing-endpoints.md
+📄 07d-frontend-data-fetching.md
 ```
-- Server side business logic
-- Populating our frontend with real data through API requests
+Follow these guides to implement the complete data journey in your application:
+
+1. Start with the [Data Journey Overview](07a-data-journey-overview.md) to understand how data flows from your database to the user interface
+
+2. Explore the [Database Layer](07b-database-layer.md) to understand your PostgreSQL data structure and write effective queries
+
+3. Learn how to implement [Server-Side Processing and API Endpoints](07c-server-processing-endpoints.md) that transform raw data into the format your frontend needs
+
+4. Complete the journey with [Frontend Data Fetching](07d-frontend-data-fetching.md) to bring real data from your API into your React components
 
 Following this sequence will ensure you build your application in a logical, step-by-step manner.
 
