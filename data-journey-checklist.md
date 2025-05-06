@@ -24,9 +24,6 @@ Use this checklist to track your progress through implementing the complete data
 
 - [ ] Create a RESTful API endpoint for each visualization
 - [ ] Implement data transformation logic for each endpoint:
-  - [ ] Site comparison data (Bar Chart)
-  - [ ] Time trends data (Line Chart)
-  - [ ] Geographic data (Map)
 - [ ] Add proper error handling to each endpoint
 - [ ] Format dates, numbers, and arrays consistently
 - [ ] Test each endpoint using Postman
@@ -35,9 +32,6 @@ Use this checklist to track your progress through implementing the complete data
 ## 📌 Step 4: Frontend Data Fetching (07d)
 
 - [ ] Update each visualization component to fetch real data:
-  - [ ] Replace static data in Bar Chart component
-  - [ ] Replace random data in Line Chart component
-  - [ ] Replace hardcoded station data in Map component
 - [ ] Implement proper loading states
 - [ ] Add error handling for failed API requests
 - [ ] Transform API response data into the format your charts expect
