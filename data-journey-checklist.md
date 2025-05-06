@@ -23,7 +23,7 @@ Use this checklist to track your progress through implementing the complete data
 ## 📌 Step 3: Server-Side Processing & API Endpoints (07c)
 
 - [ ] Create a RESTful API endpoint for each visualization
-- [ ] Implement data transformation logic for each endpoint:
+- [ ] Implement data transformation logic for each endpoint
 - [ ] Add proper error handling to each endpoint
 - [ ] Format dates, numbers, and arrays consistently
 - [ ] Test each endpoint using Postman
@@ -31,7 +31,7 @@ Use this checklist to track your progress through implementing the complete data
 
 ## 📌 Step 4: Frontend Data Fetching (07d)
 
-- [ ] Update each visualization component to fetch real data:
+- [ ] Update each visualization component to fetch real data
 - [ ] Implement proper loading states
 - [ ] Add error handling for failed API requests
 - [ ] Transform API response data into the format your charts expect
